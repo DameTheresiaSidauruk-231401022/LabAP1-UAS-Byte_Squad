@@ -1,3 +1,5 @@
+//codingan manajemen_perpustakaan
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -129,5 +131,5 @@ int main() {
 //Link screenshot hasil program (output)
 [https://drive.google.com/file/d/1y5DXjFyk0fTz5eTTmY-OQ9vpoxOQM0ry/view?usp=drivesdk]
 
-//Llink vidio persentasi
+//Link vidio persentasi
 [https://drive.google.com/file/d/1y-X_y1gFpUFlIX_tXkBaGIhERQbvrRUP/view?usp=drivesdk]
